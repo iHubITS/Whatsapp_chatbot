@@ -1,5 +1,5 @@
-# chatbot_moviebooking_actions
-chatbot_moviebooking_actions
+# chatbot_whatsapp_actions
+chatbot_appointmentbooking_actions
 
 ## Instructions:
 
